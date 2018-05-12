@@ -1,0 +1,38 @@
+_repo: Serbia-in-Light-and-DarknessWith-Preface-by-the-Archbishop-of-Canterbury--1916-_19871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Velimirović, Nikolaj
+    aliases:
+    - Velimirović, Nikolai
+    - Велимировић, Николај
+    - Velimirovic, Nikolaj
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '5032'
+    url: http://www.gutenberg.org/2009/agents/5032
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Velimirovic
+description: 'pt. I. Lectures on Serbia: England and Serbia. Serbia for cross and
+  freedom. Serbia at peace. Serbia in arms.--pt. II. Fragments of Serbian popular
+  poetry.'
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Serbia'
+- !lcsh 'Proverbs, Serbian'
+- !lcc 'DR'
+- !lcsh 'Serbian poetry -- Translations into English'
+title: 'Serbia in Light and Darkness
+
+  With Preface by the Archbishop of Canterbury, (1916)'
+url: http://www.gutenberg.org/ebooks/19871
